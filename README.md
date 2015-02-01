@@ -1,5 +1,6 @@
 # GooDSync
 This project uses Google Drive API to create a snapshot of a directory.
+GooDSync  provides an example use case that takes  advantage of the api in order to perform a backup/recovery action.
 
 ## Download
 
